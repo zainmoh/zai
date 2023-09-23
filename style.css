@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300;1,400;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #082f69;
+}
+
+h1 {
+    position: fixed;
+    text-align: center;
+    margin: 2rem 600px;
+    color: #b32e44;
+    font-family: 'Fuggles', cursive;
+    margin-bottom: 2rem;
+    background-color: #082f69;
+    height: 4rem;
+}
+
+
+section{
+    background-color: #e71538;
+    margin-bottom: 2rem;
+}
+
+section p{
+    max-width: 620px;
+    margin: 2rem auto;
+    padding-bottom: 3rem;
+}
+
+h2{
+    text-align: center;
+    color: red;
+    padding: 1rem 0;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
